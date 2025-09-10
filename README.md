@@ -91,18 +91,6 @@ Open the app in your browser:
 | PUT    | `/api.php/employees/{id}`     | Update employee by ID        |
 | DELETE | `/api.php/employees/{id}`     | Delete employee by ID        |
 
-### 🚀 Future Improvements
-
-* ✅ Fix method typo (DELETEA → DELETE) in API and cURL helper
-
-* 🔒 Use prepared statements to prevent SQL injection
-
-* 🔐 Add authentication (JWT/session) for API access
-
-* 🎨 Enhance UI with Bootstrap or Tailwind
-
-* 📊 Add search, filter, and pagination
-
 ### 👩‍💻 Author
 
 Sayantika Kandar
